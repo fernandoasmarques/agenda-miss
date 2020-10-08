@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $EntrarController = BindInject(
+  (i) => EntrarController(i<IAutenticarEmailSenha>(), i<LoadingDialog>()),
+  singleton: true,
+  lazy: true,
+);

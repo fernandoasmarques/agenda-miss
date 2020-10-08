@@ -1,0 +1,2 @@
+lib/app/core/auth_store.dart
+test/app/core/auth_store_test.dart

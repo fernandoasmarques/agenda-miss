@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $AuthStore = BindInject(
+  (i) => AuthStore(i<IUsuarioLogado>()),
+  singleton: true,
+  lazy: true,
+);

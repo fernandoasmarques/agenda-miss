@@ -1,0 +1,2 @@
+lib/app/core/stores_store.dart
+test/app/core/stores_store_test.dart

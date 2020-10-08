@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $LoadingDialogImpl = BindInject(
+  (i) => LoadingDialogImpl(),
+  singleton: true,
+  lazy: true,
+);

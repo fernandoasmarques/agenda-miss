@@ -1,0 +1,4 @@
+lib/app/core/pages/pages_page.dart
+test/app/core/pages/pages_page_test.dart
+lib/app/core/pages/pages_controller.dart
+test/app/core/pages/pages_controller_test.dart

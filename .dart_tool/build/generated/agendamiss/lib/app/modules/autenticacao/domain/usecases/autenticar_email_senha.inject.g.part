@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $AutenticarEmailSenhaImpl = BindInject(
+  (i) => AutenticarEmailSenhaImpl(i<IAutenticacaoRepository>()),
+  singleton: false,
+  lazy: true,
+);

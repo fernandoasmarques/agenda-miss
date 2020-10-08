@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $RegistrarController = BindInject(
+  (i) => RegistrarController(),
+  singleton: true,
+  lazy: true,
+);

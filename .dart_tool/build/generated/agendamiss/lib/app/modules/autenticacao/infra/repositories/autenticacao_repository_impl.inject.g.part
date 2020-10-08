@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $AutenticacaoRepository = BindInject(
+  (i) => AutenticacaoRepository(i<IAutenticacaoDataSource>()),
+  singleton: false,
+  lazy: true,
+);

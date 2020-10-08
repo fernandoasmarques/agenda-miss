@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $UsuarioLogadoImpl = BindInject(
+  (i) => UsuarioLogadoImpl(i<IAutenticacaoRepository>()),
+  singleton: false,
+  lazy: true,
+);

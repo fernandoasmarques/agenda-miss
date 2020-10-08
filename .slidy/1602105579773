@@ -1,0 +1,4 @@
+lib/app/modules/presenter/pages/registrar/registrar_page.dart
+test/app/modules/presenter/pages/registrar/registrar_page_test.dart
+lib/app/modules/presenter/pages/registrar/registrar_controller.dart
+test/app/modules/presenter/pages/registrar/registrar_controller_test.dart

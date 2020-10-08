@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $HomeController = BindInject(
+  (i) => HomeController(),
+  singleton: true,
+  lazy: true,
+);

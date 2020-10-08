@@ -1,0 +1,9 @@
+// **************************************************************************
+// InjectionGenerator
+// **************************************************************************
+
+final $ConfiguracaoController = BindInject(
+  (i) => ConfiguracaoController(),
+  singleton: true,
+  lazy: true,
+);
