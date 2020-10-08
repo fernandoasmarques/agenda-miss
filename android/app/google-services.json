@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "484300879069",
+    "firebase_url": "https://missy-71e15.firebaseio.com",
+    "project_id": "missy-71e15",
+    "storage_bucket": "missy-71e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484300879069:android:c06b722b2cc83bd1015734",
+        "android_client_info": {
+          "package_name": "br.com.missapp.agendamiss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484300879069-1242vm58mpa2vilmtb62e58v192vn6uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.missapp.agendamiss",
+            "certificate_hash": "32cf6442872cde477b59f2db229147bb22c95e3c"
+          }
+        },
+        {
+          "client_id": "484300879069-kdki6k2v11dcv2l0l6ic704746pllvqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByq98LRoR5IAgSpIierltOc9wwQIOJC6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484300879069-kdki6k2v11dcv2l0l6ic704746pllvqc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484300879069-qn5hfco7fqeu5u2gt6nake7navoismik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.missyapp.missy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
