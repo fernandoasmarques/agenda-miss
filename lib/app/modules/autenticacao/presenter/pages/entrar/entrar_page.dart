@@ -214,7 +214,7 @@ class _EntrarPageState extends ModularState<EntrarPage, EntrarController> {
                                             }
                                           },
                                           child: Text(
-                                            'ENTRAR ',
+                                            'LOGIN ',
                                             style: GoogleFonts.raleway(
                                               fontSize: 16,
                                               color: Colors.white,
